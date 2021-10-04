@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# VOCÊ BEM
 
-`CURSO`
+Tecnologia em Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+2/2021
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de uma plataforma para auto-identificação, acompanhamento e auxilo à pessoas com sobrepeso e obesidade, buscando a melhora da saúde e sua autoestima.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Arthur Victor de Paula
+* Bruno Ferreira
+* Reginaldo da Silva Assunção
+* Vinicius Monteiro Fortino
+* Willian Gutemberg Vieira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Ilo Amy Saldanha Rivero
 
 ## Instruções de utilização
 
