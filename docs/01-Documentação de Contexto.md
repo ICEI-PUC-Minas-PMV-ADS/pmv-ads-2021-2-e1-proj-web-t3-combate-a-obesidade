@@ -1,6 +1,6 @@
 # Introdução
 
-Commit gerado apenas com intuito de explicar funcionamento basico do git
+Segundo a PNS (pesquisa nacional da saúde) de 2019, 60, 3% da população brasileira apresenta um IMC acima de 25kg/m2. A além de problemas mais evidentes de saúde, o sobrepeso pode afetar o emocional (dados que se agravaram de acordo com a última pesquisa do IBGE durante pandemia), acessibilidade (espaços que não foram pensados para pessoas com sobrepeso, como teatros, cinemas e transporte público), resultando em um problema na inclusão dessas pessoas na sociedade. 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
