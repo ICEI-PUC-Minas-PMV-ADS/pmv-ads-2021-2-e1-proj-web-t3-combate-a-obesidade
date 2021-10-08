@@ -3,11 +3,9 @@
 Segundo a PNS (pesquisa nacional da saúde) de 2019, 60, 3% da população brasileira apresenta um IMC acima de 25kg/m2. A além de problemas mais evidentes de saúde, o sobrepeso pode afetar o emocional (dados que se agravaram de acordo com a última pesquisa do IBGE durante pandemia), acessibilidade (espaços que não foram pensados para pessoas com sobrepeso, como teatros, cinemas e transporte público), resultando em um problema na inclusão dessas pessoas na sociedade. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Em pleno ano de 2021 onde a informação na internet é algo de extrema acessibilidade à maioria dos cidadãos, mas que infelizmente é rodeada de coisas tóxicas, principalmente para a nossa alimentação, escolhas como Fast Food tem sido a solução para a maioria das pessoas, como dito no tópico acima.
+Com esse projeto teremos o intuito de ajudar pessoas com obesidade, que provavelmente foram afetadas pelos Fast Food, e que possuem poucos meios onlines de buscarem ajuda para a redução de peso.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
