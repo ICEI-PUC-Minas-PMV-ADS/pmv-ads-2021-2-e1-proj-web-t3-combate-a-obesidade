@@ -1,44 +1,32 @@
 # Introdução
 
-Segundo a PNS (pesquisa nacional da saúde) de 2019, 60, 3% da população brasileira apresenta um IMC acima de 25kg/m2. A além de problemas mais evidentes de saúde, o sobrepeso pode afetar o emocional (dados que se agravaram de acordo com a última pesquisa do IBGE durante pandemia), acessibilidade (espaços que não foram pensados para pessoas com sobrepeso, como teatros, cinemas e transporte público), resultando em um problema na inclusão dessas pessoas na sociedade. 
+Programas de TV como MasterChef tem nos mostrado o quão intensa é nossa relação com os alimentos e suas formas de preparo.
+Análogo a isso, é cada vez mais comum a insatisfação com a balança e a ocorrência de doenças geradas direta ou indiretamente, por erros dessa relação que presa suprir demandas emocionais e imediatas em detrimento à qualidade de vida. Em um mundo cada vez mais rápido onde o tempo engole o homem, observa-se  um aumento da busca por soluções imediatas como fast food e alimentos calóricos com baixo valor nutricional. Além disso, diante de um ambiente cheio de informações soltas e muitas vezes complexas, o desgaste emocional e físico gerados por uma rotina desgastante, agem como catalisadores e geram consequências corporais e emocionais a longo prazo por escolhas despreparadas a curto prazo.
+Segundo Thomas Moffett, importante médico do século XVII, estamos cada vez mais “cavando nossa própria sepultura com os dentes”. Em razão disso, é de suma importância que possamos ter uma aplicação que possa não só educar nutricionalmente, como também fornecer ferramentas para que a mudança positiva seja feita de forma simples e até mesmo autónoma. 
 
 ## Problema
 Em pleno ano de 2021 onde a informação na internet é algo de extrema acessibilidade à maioria dos cidadãos, mas que infelizmente é rodeada de coisas tóxicas, principalmente para a nossa alimentação, escolhas como Fast Food tem sido a solução para a maioria das pessoas, como dito no tópico acima.
 Com esse projeto teremos o intuito de ajudar pessoas com obesidade, que provavelmente foram afetadas pelos Fast Food, e que possuem poucos meios onlines de buscarem ajuda para a redução de peso.
 
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho, é a criação de um site, por onde o usuário poderá obter informações sobre emagrecimento e utilizar de ferramentas para ajudá-lo a ter uma vida mais saudável.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Alguns dos objetivos principais são:
+
+> - Fornecer um espaço onde o usuário terá as informações mais recentes sobre emagrecimento.
+> - Contato de profissionais de diversas áreas, ligados à área de emagrecimento.
+> - Ferramenta interativa para que possa fornecer suas medidas corporais e poder acompanhar o seu desenvolvimento.
+> - Fornecer informações sobre as mais diversas dietas existentes na atualidade.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Segundo o IBGE, nas pessoas com 20 anos ou mais de idade, a proporção de obesos mais que dobrou entre 2003 e 2019. Esse aumento foi de 12,2% para 26,8%. 
+A falta de informação, com dados científicos e também a falta de acesso às ferramentas digitais eficazes, podem ser um dos motivos desse aumento de peso na população. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Apesar de qualquer pessoa que deseje melhorar a saúde possa se beneficiar da plataforma, o foco principal é atingir o público que queira emagrecer e melhorar a qualidade de vida, destinado à pessoas que possuem obesidade e sobrepeso.
+Dessa forma, foi estabelecido que o público-alvo sejam homens e mulheres de 14 a 50 anos que se encontram nas situações de sobrepeso ou obesidade.
+Segundo a tabela da Associação Brasileira para o Estudo da Obesidade e Síndrome Metabólica, o IMC ideal está situado entre 18,6 e 24,9. De 25 a 29,9, a pessoa já passa a ser considerada com sobrepeso.
