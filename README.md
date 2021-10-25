@@ -12,10 +12,8 @@ Criação de uma plataforma para auto-identificação, acompanhamento e auxilo �
 
 * Arthur Victor de Paula
 * Bruno Ferreira
-* Reginaldo da Silva Assunção
 * Vinicius Monteiro Fortino
 * Willian Gutemberg Vieira
-* Dayse Maria Bento Perdiz Justo
 * Julia Mendes de Lima da Cunha
 
 ## Orientador
