@@ -7,19 +7,19 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 
 interface CardProps {
-    ico: any;
+    icon: any;
     title: string;
     desc: string;
   }
 
 export default class CardApp extends Component<CardProps> {
     render() {
-        const { ico, title, desc} = this.props;
+        const { icon, title, desc} = this.props;
 
         return(
             <Card variant="outlined">
                 <CardContent>
-                    {ico}
+                    {icon}
                 <Typography variant="h5" component="div">
                     {title}
                 </Typography>

@@ -5,23 +5,24 @@ import Button from '@mui/material/Button';
 import Grid from '@mui/material/Grid';
 import CardApp from '../components/Card';
 import AccessAlarmIcon from '@mui/icons-material/AccessAlarm';
-
+import AccessibilityNewIcon from '@mui/icons-material/AccessibilityNew';
+import AddReactionIcon from '@mui/icons-material/AddReaction';
 
 const cards = [
     {
-        icon: AccessAlarmIcon, 
-        title: 'Motivo 1',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id vehicula sapien. Phasellus pharetra rhoncus odio, ac fringilla massa aliquet eget. Mauris neque odio, mattis eget lobortis a, accumsan vitae neque. In varius tellus ac mi hendrerit, non vulputate nisi sagittis. Integer et diam arcu. Vestibulum faucibus porta magna, eu tincidunt leo egestas vel. Ut eros odio, sagittis ut tortor eu, posuere finibus arcu. Donec accumsan ex ac blandit dapibus. Sed ut interdum odio. Vestibulum orci elit, elementum in rhoncus a, tempor porta urna. Sed congue nulla sit amet dui semper mattis.'
+        icon: <AccessibilityNewIcon/>, 
+        title: 'Autoestima',
+        desc: 'Autoestima em ter um corpo que você deseja e saudavel, não importando o formato dele.'
     },
     {
-        icon: AccessAlarmIcon, 
-        title: 'Motivo 2',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id vehicula sapien. Phasellus pharetra rhoncus odio, ac fringilla massa aliquet eget. Mauris neque odio, mattis eget lobortis a, accumsan vitae neque. In varius tellus ac mi hendrerit, non vulputate nisi sagittis. Integer et diam arcu. Vestibulum faucibus porta magna, eu tincidunt leo egestas vel. Ut eros odio, sagittis ut tortor eu, posuere finibus arcu. Donec accumsan ex ac blandit dapibus. Sed ut interdum odio. Vestibulum orci elit, elementum in rhoncus a, tempor porta urna. Sed congue nulla sit amet dui semper mattis.'
+        icon: <AddReactionIcon/>, 
+        title: 'Viver melhor',
+        desc: 'Se cuidando, comendo bem, praticamente exercícios você vive melhor.'
     },
     {
-        icon: AccessAlarmIcon, 
-        title: 'Motivo 3',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id vehicula sapien. Phasellus pharetra rhoncus odio, ac fringilla massa aliquet eget. Mauris neque odio, mattis eget lobortis a, accumsan vitae neque. In varius tellus ac mi hendrerit, non vulputate nisi sagittis. Integer et diam arcu. Vestibulum faucibus porta magna, eu tincidunt leo egestas vel. Ut eros odio, sagittis ut tortor eu, posuere finibus arcu. Donec accumsan ex ac blandit dapibus. Sed ut interdum odio. Vestibulum orci elit, elementum in rhoncus a, tempor porta urna. Sed congue nulla sit amet dui semper mattis.'
+        icon: <AccessAlarmIcon/>, 
+        title: 'Viver mais tempo',
+        desc: 'Com o cuidado, você aumenta as expectativas de viver mais tempo!'
     }
 ] 
 
@@ -29,20 +30,21 @@ export default class Home extends Component {
     render() {
         return(
             <Grid 
-                container>
+                container
+                justifyContent="flex-start">
                 <Grid 
                 item
                 direction="column"
                 justifyContent="flex-start"
                 alignItems="flex-start" 
                 xs={12} 
-                height='10em'
+                height='8em'
                 padding='8em'
                 spacing={2}>
-                    <Typography variant="h3" component="div">Notícias sobre cuidados com a saúde</Typography>
+                    <Typography variant="h3" component="div">Seja bem vindo!</Typography>
                     <Typography variant="subtitle1" gutterBottom component="div">
-                        Descrição
-                    </Typography>                 
+                        Hoje em dia muito se vê sobre cuidado alimentar, mas com tanta informação fica dificil saber pra onde ir, enha com a gente que descomplicamos!
+                    </Typography>                  
                 </Grid>
 
                 <Grid 
@@ -55,7 +57,7 @@ export default class Home extends Component {
                         item
                         padding='2em'
                         xs={12}>
-                            <Typography variant="h3" component="div">Motivos pra se cuidar</Typography>
+                            <Typography variant="h4" component="div">Motivos pra se cuidar</Typography>
                         </Grid>
                         <Grid 
                             item
@@ -66,7 +68,7 @@ export default class Home extends Component {
                             spacing={2}>
                             {cards.map((item, index) => (
                                 <Grid item xs={4} key={index}>
-                                    <CardApp ico={item.icon} title={item.title} desc={item.desc}></CardApp>
+                                    <CardApp icon={item.icon} title={item.title} desc={item.desc}></CardApp>
                                 </Grid>
                             ))}
                         </Grid> 
