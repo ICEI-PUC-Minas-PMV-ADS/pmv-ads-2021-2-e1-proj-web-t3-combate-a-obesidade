@@ -9,38 +9,33 @@ const cards = [
     {
         photo: 'https://vinicolaaraucaria.com.br/wp-content/uploads/2020/06/interna_restaurante-1-1400x700.jpg', 
         title: 'Restaurante 1',
-        desc: 'Rua dos bobos, n0'
+        desc: 'Rua voluntários da pátrica 226'
     },
     {
         photo: 'https://diariodorio.com/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-16-at-19.13.58.jpeg', 
         title: 'Restaurante 1',
-        desc: 'Rua dos bobos, n0'
+        desc: 'Rua delfim moreria 589'
     },
     {
         photo: 'https://www.viajali.com.br/wp-content/uploads/2020/06/restaurantes-botafogo-1-730x449.jpg', 
         title: 'Restaurante 1',
-        desc: 'Rua dos bobos, n0'
+        desc: 'Avenida frança 32'
     },
     {
         photo: 'https://media-cdn.tripadvisor.com/media/photo-s/19/a4/6c/82/dining-and-bar-area.jpg', 
         title: 'Restaurante 1',
-        desc: 'Rua dos bobos, n0'
+        desc: 'AV mem de sá 2000'
     },
     {
         photo: 'https://www.viajali.com.br/wp-content/uploads/2018/10/restaurantes-ipanema-1.jpg', 
         title: 'Restaurante 1',
-        desc: 'Rua dos bobos, n0'
+        desc: 'Avenida Manuel Moreira 12'
     },
     {
         photo: 'https://www.casamagalhaes.com.br/blog/wp-content/uploads/2019/01/7-passos-eficazes-para-fidelizar-os-clientes-do-seu-restaurante.jpg', 
         title: 'Restaurante 1',
-        desc: 'Rua dos bobos, n0'
-    },
-    {
-        photo: 'https://vinicolaaraucaria.com.br/wp-content/uploads/2020/06/interna_restaurante-1-1400x700.jpg', 
-        title: 'Motivo 1',
-        desc: 'Rua dos bobos, n0'
-    },
+        desc: 'Rua Macedônia 45'
+    }
 ] 
 
 export default class Restaurantes extends Component {
