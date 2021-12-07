@@ -5,6 +5,7 @@ import NavBar from './components/NavBar'
 import Home from './pages/Home'
 import Restaurantes from './pages/Restaurantes'
 import Nutricionistas from './pages/Nutricionistas'
+import Profile from './pages/Profile'
 
 import {
   BrowserRouter,
@@ -22,6 +23,7 @@ function App() {
             <Route index element={<Home />} />
             <Route path="restaurantes" element={<Restaurantes />} />
             <Route path="nutricionistas" element={<Nutricionistas />} />
+            <Route path="profile" element={<Profile />} />
           </Route>
         </Routes>
       </BrowserRouter>
